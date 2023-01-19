@@ -1,0 +1,2 @@
+# Sicilian
+Sicilian Language Resources
