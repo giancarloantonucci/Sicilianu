@@ -1,16 +1,17 @@
-# Sicilian Language Resources
+# Learning resources for the Sicilian language
+**Risorse per l'apprendimento della lingua siciliana / Lerniloj por la sicilia lingvo**
 
-## Societies
+## Organisations / Organizzazioni / Organizoj
 
 - [Centro di Studi Filologici e Linguitici Siciliani](https://www.csfls.it/res/)
 - [Cademia Siciliana](https://cademiasiciliana.org/)
 - [Arba Sicula](https://arbasicula.org)
 
-## Dictionaries
+## Dictionaries / Dizionari / Vortaroj
 
 - [Wikizziunariu](https://scn.wiktionary.org/wiki/Pàggina_principali)
 
-## Movies
+## Films / Pellicole / Filmoj
 
 - [La terra trema (1948)](https://archive.org/details/la-terra-trema-luchino-visconti-1948-b-n-720p)
 - [Paisà (1946)](https://archive.org/details/05-paisa-roberto-rossellini-1946-b-n-720p)
@@ -23,7 +24,7 @@
 - Rosso Malpelo (2007)
 - Baarìa (2009)
 
-## Miscellanea
+## Miscellanea / Varie / Diversaĵoj
 
 - [Atlante Linguistico della Sicilia](http://atlantelinguisticosicilia.it/cms/)
 - [Archivio Testuale del Siciliano Medievale](http://artesia.unict.it)
