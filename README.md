@@ -3,7 +3,7 @@
 
 ## Organisations / Organizzazioni / Organizoj
 
-- [Centro di studi filologici e linguitici siciliani](https://www.csfls.it/res/)
+- [Centro di studi filologici e linguistici siciliani](https://www.csfls.it/res/)
 - [Cademia Siciliana](https://cademiasiciliana.org/)
 - [Arba Sicula](https://arbasicula.org)
 
