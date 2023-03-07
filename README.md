@@ -1,5 +1,3 @@
-# Lijami e àutru pi nzignàrisi lu sicilianu
-
 ## Urganizzazzioni
 
 - [Centro di studi filologici e linguistici siciliani](https://www.csfls.it/res/)
