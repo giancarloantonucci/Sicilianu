@@ -3,7 +3,7 @@
 
 ## Organisations / Organizzazioni / Organizoj
 
-- [Centro di Studi Filologici e Linguitici Siciliani](https://www.csfls.it/res/)
+- [Centro di studi filologici e linguitici siciliani](https://www.csfls.it/res/)
 - [Cademia Siciliana](https://cademiasiciliana.org/)
 - [Arba Sicula](https://arbasicula.org)
 
@@ -27,6 +27,6 @@
 
 ## Miscellanea / Varie / Diversaĵoj
 
-- [Atlante Linguistico della Sicilia](http://atlantelinguisticosicilia.it/cms/)
-- [Archivio Testuale del Siciliano Medievale](http://artesia.unict.it)
+- [Atlante linguistico della Sicilia](http://atlantelinguisticosicilia.it/cms/)
+- [Archivio testuale del siciliano medievale](http://artesia.unict.it)
 - [Wikipedia](https://scn.wikipedia.org/wiki/Pàggina_principali)
